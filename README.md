@@ -18,13 +18,10 @@ Travel Genie is a tour planning web application that allows users to discover de
 ![Blog Page](https://github.com/noobcoder-31/MajorProject_frontend/assets/114940964/8a2c3813-34a8-4baa-bdc0-0d272cb91677)
 
 ![discover_page](https://github.com/noobcoder-31/MajorProject_frontend/assets/114940964/602196a0-e913-4501-bc98-502d08f24d85)
-)
 
-(![review_page](https://github.com/noobcoder-31/MajorProject_frontend/assets/114940964/8d3a5701-bb98-4cae-9137-73e9307a57a6)
-)
+![review_page](https://github.com/noobcoder-31/MajorProject_frontend/assets/114940964/8d3a5701-bb98-4cae-9137-73e9307a57a6)
 
 ![mentee_page](https://github.com/noobcoder-31/MajorProject_frontend/assets/114940964/b61b3d85-2de2-44a2-bf8a-6094824e01ac)
-
 
 ![Profile Page](https://github.com/noobcoder-31/MajorProject_frontend/assets/114940964/69ee5605-b816-4ab2-97a6-044169aac140)
 
