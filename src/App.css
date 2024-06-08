@@ -1,0 +1,67 @@
+html,
+body,
+#root,
+.App {
+  height: 100vh;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.shaky:hover {
+  animation: shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+
+@keyframes shake {
+  10%,
+  90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+
+  20%,
+  80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%,
+  50%,
+  70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%,
+  60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+.lift-up:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease-in-out;
+}
+
+.default-btn {
+  width: 150px;
+  height: 35px;
+  margin-top: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  border: 2px solid #0d61df;
+  background-color: white;
+  color: #0d61df;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.default-btn:hover {
+  background-color: #0d61df;
+  color: white;
+}
+
+.blue-color {
+  color: #0d6efd;
+}
+
+.bluish-bg {
+  background-color: #e7f0f2;
+}
