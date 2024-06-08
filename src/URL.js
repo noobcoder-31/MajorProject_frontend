@@ -1,2 +1,2 @@
-const URL = "http://127.0.0.1:3500/api/v1";
+const URL = "https://majorproject-backend-dfac.onrender.com";
 export default URL;
