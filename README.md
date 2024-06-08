@@ -39,8 +39,6 @@ To run the frontend locally, follow these steps:
 5. Start the development server: `npm start`
 6. The application should now be running at `http://localhost:3000`
 
-Make sure to have the Travel Genie backend API running as well. You can find the instructions for setting up the backend in the [backend README.md](./backend/README.md) file.
-
 ## Build for Production
 
 To create a production build, run: npm run build
